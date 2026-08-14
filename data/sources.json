@@ -1,0 +1,43 @@
+[
+  { "id": "espncricinfo", "name": "ESPNcricinfo", "category": "Cricket", "group": "Sports", "feed": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml", "website": "https://www.espncricinfo.com" },
+  { "id": "cricbuzz", "name": "Cricbuzz", "category": "Cricket", "group": "Sports", "feed": "https://www.cricbuzz.com/rss/news/cb-news.xml", "website": "https://www.cricbuzz.com" },
+  { "id": "bbc_cricket", "name": "BBC Sport Cricket", "category": "Cricket", "group": "Sports", "feed": "https://feeds.bbci.co.uk/sport/cricket/rss.xml", "website": "https://www.bbc.com/sport/cricket" },
+  { "id": "ndtv_cricket", "name": "NDTV Sports Cricket", "category": "Cricket", "group": "Sports", "feed": "https://sports.ndtv.com/rss/cricket", "website": "https://sports.ndtv.com/cricket" },
+
+  { "id": "bbc_football", "name": "BBC Sport Football", "category": "Football", "group": "Sports", "feed": "https://feeds.bbci.co.uk/sport/football/rss.xml", "website": "https://www.bbc.com/sport/football" },
+  { "id": "sky_football", "name": "Sky Sports Football", "category": "Football", "group": "Sports", "feed": "https://www.skysports.com/rss/12040", "website": "https://www.skysports.com/football" },
+  { "id": "espn_fc", "name": "ESPN Football", "category": "Football", "group": "Sports", "feed": "https://www.espn.com/espn/rss/football/news", "website": "https://www.espn.com/soccer" },
+  { "id": "ndtv_football", "name": "NDTV Sports Football", "category": "Football", "group": "Sports", "feed": "https://sports.ndtv.com/rss/football", "website": "https://sports.ndtv.com/football" },
+
+  { "id": "bbc_tennis", "name": "BBC Sport Tennis", "category": "Tennis", "group": "Sports", "feed": "https://feeds.bbci.co.uk/sport/tennis/rss.xml", "website": "https://www.bbc.com/sport/tennis" },
+  { "id": "sky_tennis", "name": "Sky Sports Tennis", "category": "Tennis", "group": "Sports", "feed": "https://www.skysports.com/rss/12110", "website": "https://www.skysports.com/tennis" },
+  { "id": "ndtv_tennis", "name": "NDTV Sports Tennis", "category": "Tennis", "group": "Sports", "feed": "https://sports.ndtv.com/rss/tennis", "website": "https://sports.ndtv.com/tennis" },
+
+  { "id": "ndtv_kabaddi", "name": "NDTV Sports Kabaddi", "category": "Kabaddi", "group": "Sports", "feed": "https://sports.ndtv.com/rss/kabaddi", "website": "https://sports.ndtv.com/kabaddi" },
+  { "id": "gnews_kabaddi", "name": "Google News \u2014 Kabaddi", "category": "Kabaddi", "group": "Sports", "feed": "https://news.google.com/rss/search?q=kabaddi%20when:7d&hl=en-IN&gl=IN&ceid=IN:en", "website": "https://news.google.com/search?q=kabaddi&hl=en-IN&gl=IN" },
+
+  { "id": "espn_nba", "name": "ESPN NBA Basketball", "category": "Basketball", "group": "Sports", "feed": "https://www.espn.com/espn/rss/nba/news", "website": "https://www.espn.com/nba" },
+  { "id": "bbc_basketball", "name": "BBC Sport Basketball", "category": "Basketball", "group": "Sports", "feed": "https://feeds.bbci.co.uk/sport/basketball/rss.xml", "website": "https://www.bbc.com/sport/basketball" },
+
+  { "id": "motorsport_f1", "name": "Motorsport.com F1", "category": "Formula 1", "group": "Sports", "feed": "https://www.motorsport.com/rss/f1/news/", "website": "https://www.motorsport.com/f1" },
+  { "id": "bbc_f1", "name": "BBC Sport Formula 1", "category": "Formula 1", "group": "Sports", "feed": "https://feeds.bbci.co.uk/sport/formula1/rss.xml", "website": "https://www.bbc.com/sport/formula1" },
+
+  { "id": "bbc_hockey", "name": "BBC Sport Hockey", "category": "Hockey", "group": "Sports", "feed": "https://feeds.bbci.co.uk/sport/hockey/rss.xml", "website": "https://www.bbc.com/sport/hockey" },
+  { "id": "ndtv_badminton", "name": "Google News \u2014 Badminton", "category": "Badminton", "group": "Sports", "feed": "https://news.google.com/rss/search?q=badminton%20when:7d&hl=en-IN&gl=IN&ceid=IN:en", "website": "https://news.google.com/search?q=badminton&hl=en-IN&gl=IN" },
+
+  { "id": "bbc_other_sports", "name": "BBC Sport Global", "category": "Other Sports", "group": "Sports", "feed": "https://feeds.bbci.co.uk/sport/rss.xml", "website": "https://www.bbc.com/sport" },
+
+  { "id": "variety_hollywood", "name": "Variety", "category": "Hollywood", "group": "Entertainment", "feed": "https://variety.com/feed/", "website": "https://variety.com" },
+  { "id": "deadline_hollywood", "name": "Deadline Hollywood", "category": "Hollywood", "group": "Entertainment", "feed": "https://deadline.com/feed/", "website": "https://deadline.com" },
+  { "id": "thr_hollywood", "name": "The Hollywood Reporter", "category": "Hollywood", "group": "Entertainment", "feed": "https://www.hollywoodreporter.com/feed/", "website": "https://www.hollywoodreporter.com" },
+
+  { "id": "indianexpress_bollywood", "name": "Indian Express Entertainment", "category": "Bollywood", "group": "Entertainment", "feed": "https://indianexpress.com/section/entertainment/feed/", "website": "https://indianexpress.com/section/entertainment" },
+  { "id": "bollywood_hungama", "name": "Bollywood Hungama", "category": "Bollywood", "group": "Entertainment", "feed": "https://www.bollywoodhungama.com/rss/news.xml", "website": "https://www.bollywoodhungama.com" },
+  { "id": "gnews_bollywood", "name": "Google News \u2014 Bollywood", "category": "Bollywood", "group": "Entertainment", "feed": "https://news.google.com/rss/search?q=bollywood%20when:2d&hl=en-IN&gl=IN&ceid=IN:en", "website": "https://news.google.com/search?q=bollywood&hl=en-IN&gl=IN" },
+
+  { "id": "indianexpress_south", "name": "Indian Express Regional", "category": "South Cinema", "group": "Entertainment", "feed": "https://indianexpress.com/section/entertainment/regional/feed/", "website": "https://indianexpress.com/section/entertainment/regional" },
+  { "id": "gnews_south_cinema", "name": "Google News \u2014 South Cinema", "category": "South Cinema", "group": "Entertainment", "feed": "https://news.google.com/rss/search?q=(Tollywood%20OR%20Kollywood%20OR%20%22South%20Indian%20cinema%22)%20when:3d&hl=en-IN&gl=IN&ceid=IN:en", "website": "https://news.google.com/search?q=South%20Indian%20cinema&hl=en-IN&gl=IN" },
+
+  { "id": "screenrant_streaming", "name": "ScreenRant Streaming", "category": "Web Series / OTT", "group": "Entertainment", "feed": "https://screenrant.com/feed/tag/streaming/", "website": "https://screenrant.com/streaming/" },
+  { "id": "gnews_ott", "name": "Google News \u2014 OTT / Web Series", "category": "Web Series / OTT", "group": "Entertainment", "feed": "https://news.google.com/rss/search?q=(%22web%20series%22%20OR%20OTT%20release)%20when:3d&hl=en-IN&gl=IN&ceid=IN:en", "website": "https://news.google.com/search?q=OTT%20release&hl=en-IN&gl=IN" }
+]
