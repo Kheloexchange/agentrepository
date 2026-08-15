@@ -1,0 +1,14 @@
+<svg viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#ff3fa4" stroke-width="3">
+    <circle cx="450" cy="450" r="330"/>
+    <circle cx="450" cy="450" r="90"/>
+  </g>
+  <g fill="#ff3fa4">
+    <circle cx="450" cy="220" r="26"/>
+    <circle cx="640" cy="340" r="26"/>
+    <circle cx="640" cy="560" r="26"/>
+    <circle cx="450" cy="680" r="26"/>
+    <circle cx="260" cy="560" r="26"/>
+    <circle cx="260" cy="340" r="26"/>
+  </g>
+</svg>
