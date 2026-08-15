@@ -1,0 +1,38 @@
+<svg viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="g2" cx="80%" cy="20%" r="80%">
+      <stop offset="0%" stop-color="#1c0d16"/>
+      <stop offset="100%" stop-color="#0a0a08"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g2)"/>
+  <g opacity="0.35">
+    <polygon points="1600,0 900,900 1150,900 1600,140" fill="#ff3fa4"/>
+    <polygon points="1600,0 1050,900 1180,900 1600,260" fill="#ff3fa4" opacity="0.6"/>
+  </g>
+  <g fill="none" stroke="#ff3fa4" stroke-width="2" opacity="0.45">
+    <rect x="60" y="120" width="220" height="480" rx="10"/>
+  </g>
+  <g fill="#ff3fa4" opacity="0.5">
+    <rect x="76" y="150" width="20" height="20" rx="3"/>
+    <rect x="76" y="200" width="20" height="20" rx="3"/>
+    <rect x="76" y="250" width="20" height="20" rx="3"/>
+    <rect x="76" y="300" width="20" height="20" rx="3"/>
+    <rect x="76" y="350" width="20" height="20" rx="3"/>
+    <rect x="76" y="400" width="20" height="20" rx="3"/>
+    <rect x="76" y="450" width="20" height="20" rx="3"/>
+    <rect x="76" y="500" width="20" height="20" rx="3"/>
+    <rect x="244" y="150" width="20" height="20" rx="3"/>
+    <rect x="244" y="200" width="20" height="20" rx="3"/>
+    <rect x="244" y="250" width="20" height="20" rx="3"/>
+    <rect x="244" y="300" width="20" height="20" rx="3"/>
+    <rect x="244" y="350" width="20" height="20" rx="3"/>
+    <rect x="244" y="400" width="20" height="20" rx="3"/>
+    <rect x="244" y="450" width="20" height="20" rx="3"/>
+    <rect x="244" y="500" width="20" height="20" rx="3"/>
+  </g>
+  <g fill="none" stroke="#ff3fa4" stroke-width="1.5" opacity="0.3">
+    <circle cx="1350" cy="650" r="130"/>
+    <circle cx="1350" cy="650" r="90"/>
+  </g>
+</svg>
